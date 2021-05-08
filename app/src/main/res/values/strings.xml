@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLDemo</string>
+    <string name="CustomerName">Customer name</string>
+    <string name="CustomerAge">Age</string>
+    <string name="ActiveCustomer">Active Customer</string>
+    <string name="ViewAll">View All</string>
+    <string name="Add">Add</string>
+</resources>
